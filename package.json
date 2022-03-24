@@ -1,0 +1,14 @@
+{
+  "name": "nodefun",
+  "version": "1.0.0",
+  "description": "Basic Node Lab",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Turner May",
+  "license": "ISC",
+  "dependencies": {
+    "request-promise": "^4.2.6"
+  }
+}
